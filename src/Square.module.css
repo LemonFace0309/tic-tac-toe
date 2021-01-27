@@ -1,0 +1,12 @@
+.Square {
+  padding: 0;
+  background-color: white;
+  border: 1px solid black;
+  text-align: center;
+  height: 30px;
+  width: 30px;
+}
+
+.Square:hover {
+  cursor: pointer;
+}
